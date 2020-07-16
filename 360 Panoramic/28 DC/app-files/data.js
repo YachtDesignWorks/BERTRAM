@@ -24,20 +24,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.5973657192095514,
-        "pitch": 0.33852938837205926,
+        "yaw": 1.5610917175564722,
+        "pitch": 0.3271978607277788,
         "fov": 1.4256478217424775
       },
       "linkHotspots": [
         {
-          "yaw": 1.5466896766491818,
-          "pitch": 0.1882685235976318,
+          "yaw": 1.5479996002970706,
+          "pitch": 0.25262990035206734,
           "rotation": 0,
           "target": "2-bow"
         },
         {
-          "yaw": 1.8961009460015656,
-          "pitch": 0.21939089082878027,
+          "yaw": 1.8668707305541563,
+          "pitch": 0.2689476150535519,
           "rotation": 0,
           "target": "1-helm"
         }
@@ -68,20 +68,20 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.5741845126510334,
-        "pitch": 0.3804688363496531,
-        "fov": 1.4256478217424775
+        "yaw": 1.558982556360105,
+        "pitch": 0.33772363140432304,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.0666454526392037,
-          "pitch": 0.4536442521921611,
+          "yaw": 1.0950005968224374,
+          "pitch": 0.35006536116165954,
           "rotation": 0,
           "target": "2-bow"
         },
         {
-          "yaw": -1.2441044294781651,
-          "pitch": 0.561122902119088,
+          "yaw": -1.3312519703956909,
+          "pitch": 0.4038116536188774,
           "rotation": 0,
           "target": "0-transom"
         }
@@ -112,26 +112,32 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.5998813566758345,
-        "pitch": 0.4395866572709153,
-        "fov": 1.4256478217424775
+        "yaw": 1.5696697779782216,
+        "pitch": 0.2836382320354538,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.1354180799179545,
-          "pitch": 0.2460583882404741,
+          "yaw": 1.1492414419276162,
+          "pitch": 0.21262171048425316,
           "rotation": 0,
           "target": "1-helm"
+        },
+        {
+          "yaw": 1.5428409994917622,
+          "pitch": 0.2872164429349571,
+          "rotation": 0,
+          "target": "0-transom"
         }
       ],
       "infoHotspots": []
     }
   ],
-  "name": "Bertram 28 DC_Working",
+  "name": "BERTRAM 28DC",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
+    "fullscreenButton": false,
     "viewControlButtons": false
   }
 };
